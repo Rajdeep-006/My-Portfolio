@@ -1,0 +1,187 @@
+@media  screen and (max-width:479px) {
+    #nav>h2{
+        font-size: 16px;
+    }
+    body{
+        padding-left: 0px;
+    }
+
+    #riyal{
+        padding-left: 0px;
+    }
+
+    #nav{
+        padding: 28px;
+        height: 60px;
+    }
+
+    #main{
+        height: 310px;
+    }
+    
+    #left{
+        display: none;
+    }
+
+    
+    #leftp{
+        display: block;
+        /* padding: 0px;
+        margin: 0px; */
+        font-weight: 600px;
+        cursor: pointer;
+    }
+
+#main button{
+    font-size: 13px;
+    padding: 10px;
+}
+
+    #photo{
+        /* width: 200px;
+        height: 50px; */
+       position: absolute;
+        width: 200px;
+        height: 200px;
+        padding-right: 15px;
+        /* bottom: 63%; */
+        top: 120px;
+        right: 15px;
+    }
+
+    #content{
+        width: 100%;
+        height: 260px;
+        padding: 30px;
+        padding-top: 15px;
+    }
+
+    #pic{
+        width: 0;
+        padding: 0;
+        bottom: 100px;
+       
+    }
+
+    #so{
+        font-size: 22px;
+        width: 250px;
+    }
+
+    #tp{
+        font-size: 16px;
+    }
+
+   #main2 #tp{
+        font-size: 16px;
+        width: 180px;
+        padding-top: 40px;
+    }
+
+    #main2{
+        width: 100%;
+    }
+
+    #pic2{
+
+        display: none;
+    }
+
+    #content2{
+        width: 100%;
+        justify-content: none;
+        display: block;
+        padding: 0px 45px;
+    }
+
+    #content2 #tp{
+        font-size: 20px;
+    }
+
+    #rps{
+        display: block;
+        width: 70%;
+        height: 400px;
+        margin: 0px auto;
+        border-radius: 15px;
+        padding-top: 0px;
+        object-fit: cover;
+        object-position: top;
+    }
+
+    #main3{
+        height: 100px;
+       
+    }
+
+    #main3  #tp{
+        padding-top: 0px;
+        font-size: 20px;
+        padding-left: 20px;
+    }
+
+    #skill{
+        width: 100%;
+        padding: 0px 15px;
+    }
+
+    #skill p{
+        color: whitesmoke;
+        font-size: 10px;
+        display: flex;
+        align-items: center;
+        padding: 7px;
+        margin: 7px;
+    }
+
+    footer{
+        font-size: 12px;
+        padding: 10px;
+    }
+
+    #main4{
+        display: block;
+        padding-top: 0px;
+    }
+
+    #email, #contact{
+        font-size: 13px;
+        padding-left: 20px;
+        font-weight: 550;
+    }
+
+    #box{
+       padding-left: 20px;
+       padding-right: 20px;
+    }
+
+    #nam{
+   padding: 10px 130px 10px 10px ;
+    }
+
+    #mes{
+        padding: 10px 130px 60px 10px;
+    }
+
+    #op{
+        font-size: 20px;
+        padding: 10px 0px 0px 43px;
+    }
+
+    #body{
+        padding: 0;
+    }
+
+    #main4  button{
+        margin-left: 20px;
+    }
+
+    #box button{
+        margin: 15px 0px;
+    }
+
+   
+ 
+
+
+}
